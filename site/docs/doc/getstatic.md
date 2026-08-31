@@ -1,7 +1,5 @@
 # getstatic
 
-[`getstatic`在线教程](https://arthas.aliyun.com/doc/arthas-tutorials.html?language=cn&id=command-getstatic)
-
 ### 使用参考
 
 - 推荐直接使用[ognl](ognl.md)命令，更加灵活。

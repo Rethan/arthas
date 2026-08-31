@@ -4,8 +4,6 @@
 @since 3.5.1
 :::
 
-[`vmtool` online tutorial](https://arthas.aliyun.com/doc/arthas-tutorials.html?language=en&id=command-vmtool)
-
 `vmtool` uses the `JVMTI` to support `getInstances` in jvm and `forceGc`.
 
 - [JVM Tool Interface](https://docs.oracle.com/javase/8/docs/platform/jvmti/jvmti.html)
